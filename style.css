@@ -1,3 +1,6 @@
+body { 
+    background-color: black;
+}
 .navbar{
     background-color: red;
     color: white;
@@ -5,4 +8,7 @@
 .container-fluid{
     background-color: black;
     color: aliceblue;
+}
+.p{
+    color: red;
 }
